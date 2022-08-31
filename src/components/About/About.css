@@ -41,9 +41,10 @@
   #intro {
     margin-top: 40px;
     margin-left: 40px;
-    font-size: 30px;
-    width: 100%;
+    font-size: 25px;
+    width: 900px;
     z-index: 2;
+    text-align: left;
   }
   
   .square {
@@ -53,10 +54,10 @@
   /* world */
   #world {
     position: absolute;
-    top: 400px;
-    left: 350px;
-    width: 1000px;
-    height: 700px;
+    top: 440px;
+    left: 120px;
+    width: 800px;
+    height: 600px;
     z-index: 3;
   }
   
@@ -84,7 +85,7 @@
   .Netherlands {
     position: absolute;
     top: 540px;
-    left: 790px;
+    left: 460px;
     width: 20px;
     height: 20px;
     background-color: grey;
@@ -119,7 +120,7 @@
   .Spain {
     position: absolute;
     top: 590px;
-    left: 750px;
+    left: 435px;
     width: 20px;
     height: 20px;
     background-color: grey;
@@ -154,7 +155,7 @@
   .China {
     position: absolute;
     top: 610px;
-    left: 1055px;
+    left: 715px;
     width: 20px;
     height: 20px;
     background-color: grey;
@@ -259,23 +260,21 @@
   
     100% {
       top: 150px;
-      left: 1050px;
+      left: 600px;
       transform: rotateX(20deg);
       opacity: 1.0;
-      height: 300px;
-      width: 300px;
     }
   
   }
   
   .intro-work {
-    width: 800px;
+    width: 400px;
     height: 200px;
     position: absolute;
-    top: 800px;
-    left: 1800px;
+    top:870px;
+    left: 1000px;
     z-index: 6;
-    font-size: 30px;
+    font-size: 20px;
   }
   
   @media only screen and (max-width: 768px) {
