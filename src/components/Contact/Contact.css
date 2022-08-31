@@ -240,6 +240,18 @@ textarea {
         border-bottom-right-radius: 10px;
     }
 
+   
+
+    /* image*/
+    .image11 {
+        background-image: url("../../../public/china2.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 700px;
+        width: 200px;
+        object-fit: fill;
+    }
+
     #body-contact {
         display: flex;
         flex-direction: column;
@@ -247,16 +259,6 @@ textarea {
         justify-content: flex-start;
         align-items: center;
         align-content: stretch;
-        height: 500px;
-    }
-
-    /* image*/
-    .image11 {
-        background-image: url("../../../public/china2.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 100%;
-        width: 200px;
-        object-fit: fill;
+        height: 700px;
     }
 }

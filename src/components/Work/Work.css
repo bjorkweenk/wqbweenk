@@ -28,7 +28,7 @@
 
   .line1 {
     width: 100px;
-    height: 900px;
+    height: 800px;
     background-color: white;
     margin-top: 100px;
   }
@@ -422,8 +422,8 @@
       .title-a {
         font-size: 12px;
         position: absolute;
-        top : 500px;  ; 
-        left: -50px; 
+        top : 350px;  ; 
+        left: 60px; 
         width: 220px;
       }
 

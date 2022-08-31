@@ -260,7 +260,7 @@
   
     100% {
       top: 150px;
-      left: 600px;
+      left: 700px;
       transform: rotateX(20deg);
       opacity: 1.0;
     }
@@ -272,7 +272,7 @@
     height: 200px;
     position: absolute;
     top:870px;
-    left: 1000px;
+    left: 1200px;
     z-index: 6;
     font-size: 20px;
   }
