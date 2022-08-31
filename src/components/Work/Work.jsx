@@ -68,7 +68,7 @@ export default function Work() {
                 </div>
 
                 {/*ironhack*/}
-                <div className="item" data-aos="flip-down">
+                <div className="item-1" data-aos="flip-down">
                     <h1 className='link1'> Iron Hack <span className='outline1'> 2022 </span></h1>
                 </div>
 
@@ -169,7 +169,7 @@ export default function Work() {
                     <div className='line-9'></div>
                 </div>
                 {/*Brainnest*/}
-                <div className="item" data-aos="flip-down">
+                <div className="item-1" data-aos="flip-down">
                     <h1 className='link1'> Brainnest <span className='outline1'> 2022 </span></h1>
                 </div>
 
@@ -232,7 +232,7 @@ export default function Work() {
                 </div>
 
                  {/*Portfolio */}
-                 <div className="item" data-aos="flip-down">
+                 <div className="item-1" data-aos="flip-down">
                   <h1 className='link1'> Wu Qinggui Bjork  <span className='outline1'> 2022 </span></h1>   
                 </div>
 
@@ -268,7 +268,7 @@ export default function Work() {
                 </div>
 
                  {/*screenshots */}
-                 <div className="item" data-aos="flip-down">
+                 <div className="item-1" data-aos="flip-down">
                   <h1 className='link1'> Screenshots <span className='outline1'> 2020 </span></h1>   
                 </div>
 
@@ -327,7 +327,7 @@ export default function Work() {
                 </div>
 
                  {/* Menu */}
-                 <div className="item" data-aos="flip-down">
+                 <div className="item-1" data-aos="flip-down">
                   <h1 className='link1'> De Waagh  <span className='outline1'> 2015 </span></h1>   
                 </div>
 
@@ -363,7 +363,7 @@ export default function Work() {
                 </div>
 
                  {/*Sint Lucas*/}
-                 <div className="item" data-aos="flip-down">
+                 <div className="item-1" data-aos="flip-down">
                   <h1 className='link1'> Sint Lucas <span className='outline1'> 2011-2015 </span></h1>   
                 </div>
 
