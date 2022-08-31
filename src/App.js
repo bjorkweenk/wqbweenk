@@ -1,24 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
+import { useState } from 'react';
+
+/*router dom*/
+import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom"
+
+/*import pages */
+
+import AppRoutes from './routes/AppRoutes';
+import ScrollArrow from './components/ScrollArrow/ScrollArrow';
+
+
 
 function App() {
+
+
+const [showScroll, setShowScroll] = useState(false)
+const checkScrollTop = () => {    
+   if (!showScroll && window.pageYOffset > 400){
+      setShowScroll(true)    
+   } else if (showScroll && window.pageYOffset <= 400){
+      setShowScroll(false)    
+   }  
+};
+window.addEventListener('scroll', checkScrollTop)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className="App">
+          <AppRoutes/>
+      </div>
+
+
+    </>
   );
 }
 
