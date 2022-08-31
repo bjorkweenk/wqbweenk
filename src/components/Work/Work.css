@@ -1,6 +1,6 @@
 .item {
     width: 80%;
-    height: 1100px;
+    height: 900px;
     margin: 50px auto;
     padding-top: 75px;
     background: #ccc;
@@ -37,8 +37,8 @@
     background-image: url(../../../public/iron.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 900px;
-    height: 600px;
+    width: 600px;
+    height: 300px;
     position: absolute;
     top : 230px ; 
     left: 60px; 
@@ -70,10 +70,14 @@
     font-size: 15px;
   }
 
+  .more11 {
+    display: flex;
+    flex-direction: column;
+  }
   .more1 {
     display: none;
     background-color:transparent;
-    width: 200px;
+    width: 100px;
     height: 300px;
     position: absolute;
     top: 0px ; 
@@ -100,7 +104,7 @@
     border-radius: 50%;
     position: absolute;
     top: 470px;
-    left: 560px;
+    left: 450px;
   }
 
 
@@ -111,8 +115,8 @@
     background-image: url(../../../public/susy.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 900px;
-    height: 600px;
+    width: 600px;
+    height: 300px;
     position: absolute;
     top : 230px ; 
     left: 60px; 
@@ -127,8 +131,8 @@
     background-image: url(../../../public/foodhunters1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 900px;
-    height: 600px;
+    width: 600px;
+    height: 300px;
     position: absolute;
     top : 230px ; 
     left: 60px; 
@@ -139,13 +143,14 @@
   }
 
 
+
   /* sharelicious */
   .line2-sh {
     background-image: url(../../../public/sharelicious1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 900px;
-    height: 600px;
+    width: 600px;
+    height: 300px;
     position: absolute;
     top : 230px ; 
     left: 60px; 
@@ -160,8 +165,8 @@
     background-image: url(../../../public/brainnest1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 900px;
-    height: 600px;
+    width: 600px;
+    height: 300px;
     position: absolute;
     top : 230px ; 
     left: 60px; 
@@ -176,8 +181,8 @@
     background-image: url(../../../public/brainnestweekk2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 900px;
-    height: 600px;
+    width: 600px;
+    height: 300px;
     position: absolute;
     top : 230px ; 
     left: 60px; 
@@ -190,10 +195,10 @@
     /* Portfolio */
     .line2-portfolio {
       background-image: url(../../../public/portfolio.png);
-      background-size:120%;
       background-repeat: no-repeat;
-      width: 900px;
-      height: 600px;
+      background-size: cover;
+      width: 600px;
+      height: 300px;
       position: absolute;
       top : 230px ; 
       left: 60px; 
@@ -206,10 +211,10 @@
     /* Mountain Climbers */
     .line2-mc {
       background-image: url(../../../public/mountainclimbers.png);
-      background-size:120%;
       background-repeat: no-repeat;
-      width: 900px;
-      height: 600px;
+      background-size: cover;
+      width: 600px;
+      height: 300px;
       position: absolute;
       top : 230px ; 
       left: 60px; 
@@ -222,10 +227,10 @@
     /* sports */
     .line2-sports {
       background-image: url(../../../public/sport.png);
-      background-size:120%;
       background-repeat: no-repeat;
-      width: 900px;
-      height: 600px;
+      background-size: cover;
+      width: 600px;
+      height: 300px;
       position: absolute;
       top : 230px ; 
       left: 60px; 
@@ -238,10 +243,10 @@
     /* Waagh */
     .line2-waagh {
       background-image: url(../../../public/waagh.png);
-      background-size:100%;
       background-repeat: no-repeat;
-      width: 900px;
-      height: 600px;
+      background-size: cover;
+      width: 600px;
+      height: 300px;
       position: absolute;
       top : 230px ; 
       left: 60px; 
@@ -255,10 +260,10 @@
     /* sintlucas */
     .line2-sintlucas {
       background-image: url(../../../public/sintlucas.png);
-      background-size:100%;
       background-repeat: no-repeat;
-      width: 900px;
-      height: 600px;
+      background-size: cover;
+      width: 600px;
+      height: 300px;
       position: absolute;
       top : 230px ; 
       left: 60px; 
@@ -272,11 +277,11 @@
 
 
   .line3 {
-    width: 720px;
-    height: 500px;
+    width: 400px;
+    height: 300px;
     background-color: white;
     position: absolute;
-    top : 400px; 
+    top : 280px; 
     left: 300px;
   }
 
@@ -285,8 +290,8 @@
     height: 5px;
     background-color: black; 
     position: absolute; 
-    top : 180px;
-    left: 800px; 
+    top : 200px;
+    left: 80px; 
   }
 
   .line-5 {
@@ -294,8 +299,8 @@
     height: 200px;
     background-color: black; 
     position: absolute; 
-    top : 400px;
-    left: 1000px;
+    top : 40px;
+    left: 100px;
   }
 
   .line-6 {
@@ -310,10 +315,10 @@
    .line-7 {
     background: linear-gradient(90deg, rgba(233,233,233,0.30155812324929976) 0%, rgba(247,247,240,0.5) 99%, rgba(245,244,222,0.5) 10%);
     height: 900px;
-    width: 800px;
+    width: 700px;
     position: absolute; 
     top : 0 ; 
-    left: 1200px; 
+    left: 600px; 
    }
 
    .line-8 {
@@ -321,10 +326,10 @@
     animation-delay: calc(.1s * var(--i));
     animation-iteration-count: 1;
     height: 5px;
-    width: 700px;
+    width: 400px;
     position: absolute;
-    top : 950px; 
-    right: 300px ; 
+    top : 800px; 
+    right: 50px ; 
     background-color: black;
    }
 
@@ -332,18 +337,18 @@
     animation: index-item2 6s forwards;
     animation-delay: calc(.1s * var(--i));
     animation-iteration-count: 1;
-    height: 500px;
+    height: 400px;
     width: 5px;
     position: absolute;
-    top : 0px; 
-    right: 350px ; 
+    top : 100px; 
+    right: 100px ; 
     background-color: black;
     transform: rotate(450deg);
    }
 
    @keyframes index-item1 {
     from {
-        transform: translateX(100%);
+        transform: translateX(20%);
     }
 
     to {
@@ -367,20 +372,22 @@
 
   .project {
     font-family: 'Staatliches', sans-serif;
-    margin-top: 610px;
-    margin-left: -620px;
-    font-size: 40px;
+    margin-top: 310px;
+    margin-left:-300px;
+    font-size: 30px;
   }
 
   .title-a {
     font-family: 'Saira Semi Condensed', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 200;
     width: 900px;
     height: 60px;
     text-align: left;
-    margin-left: 110px;
-    margin-top: -160px;
+    position: absolute;
+    top: 600px;
+    left: 120px;
+   
 
   }
 
@@ -392,7 +399,7 @@
       -webkit-text-stroke-color: black;
       -moz-text-stroke-width: 2px;  
       -webkit-text-stroke-width: 2px;
-      font-size: 50px;
+      font-size: 30px;
       margin-top: 20vh;
       margin-left: 10px;
       }

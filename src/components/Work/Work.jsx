@@ -44,7 +44,7 @@ export default function Work() {
                         <i class="fa-solid fa-database"></i>
                         <div class="fa-brands1">
                             <div class="more">
-                                <div class="more1"><ul>
+                                <div class="more1"><ul className='more11'>
                                     <li className='txt'> Microsoft</li>
                                     <li className='txt'>Indesign</li>
                                     <li className='txt'>Photoshop</li>
