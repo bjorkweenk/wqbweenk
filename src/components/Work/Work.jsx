@@ -110,7 +110,7 @@ export default function Work() {
                         <h3 className='project'> Food Hunters</h3>
                     </div>
                     <div className='line2-a'>
-                        <h5 className='title-a'> FOODHUNTERS is an app where you can follow you're friends favorite recipes.</h5>
+                        <h5 className='title-a'> FOODHUNTERS is an app where you can follow your friends favorite recipes.</h5>
                     </div>
                     <div className='line3'></div>
                     <div className='line-4'></div>
