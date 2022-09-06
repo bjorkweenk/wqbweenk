@@ -18,7 +18,7 @@ export default function About() {
 
                 <p id="intro"> Hi, Welcome! <br></br><br></br>
                     Waking up with a little breeze, some sunshine and a cup of coffee in my hand. <br></br>
-                    I would say that would be my perfect start of the day. I dislike if there is not a new challenge. <br></br><br></br> Walking in the mountains, inline skating in the park or sweating in the gym. All those activities will give me a smile. <br></br><br></br>
+                    I would say that would be my perfect start of the day. <br></br><br></br> Walking in the mountains, inline skating in the park or sweating in the gym. All those activities will give me a smile. <br></br><br></br>
                     Getting to know new people, developing new skills and exploring new countries will make me enthusiastic. <br></br>
                     and last but not least being surrounded by the people I love & doing a job that challenges me, is my key to happiness.
                     <br></br><br></br>
