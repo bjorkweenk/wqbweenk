@@ -56,9 +56,8 @@ ul {
     align-items: center;
 }
 
-i:hover {
+.i:hover {
     color: #12746c;
-    transform: scale(1.5);
 }
 
 .scroll {
@@ -117,7 +116,6 @@ i:hover {
     
     i:hover {
         color: #12746c;
-        transform: scale(0.5);
     }
     
     .scroll {

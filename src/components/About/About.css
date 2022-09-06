@@ -70,7 +70,7 @@
     top: 0px;
     left: 10px;
     padding: 20px;
-    z-index: 5;
+    z-index: 7;
     font-size: 20px;
     color: white;
     border-radius: 10px;
@@ -161,7 +161,7 @@
     background-color: grey;
     border: 2px solid black;
     border-radius: 50%;
-    z-index: 6;
+    z-index: 5;
   }
   
   .img-in {
@@ -305,7 +305,7 @@
     #name {
       color: black;
       transform: rotate(-90deg);
-      margin-top: 490px;
+      margin-top: 420px;
       font-size: 20px;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -313,10 +313,10 @@
   
     #name2 {
       position: absolute;
-      top: 490px;
-      left: -35px;
+      top: 520px;
+      left: 70px;
       font-size: 20px;
-      transform: rotate(-90deg);
+      transform: rotate(360deg);
     }
   
     #intro {

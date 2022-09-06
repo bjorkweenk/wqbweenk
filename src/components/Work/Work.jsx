@@ -80,7 +80,7 @@ export default function Work() {
                         <h3 className='project'> Susy</h3>
                     </div>
                     <div className='line2-a'>
-                        <h5 className='title-a'>My first ever game in Javascript with canvas & express. Susy is a healthy girl who needs to catch the apples to score some point.. if she eats the hamburger she is game over.</h5>
+                        <h5 className='title-a'> The first ever game I made using Javascript, Canvas & Express. Susy is a healthy girl who catches apples to score points.. but be aware, she needs to avoid the hamburgers or it is game-over!</h5>
                     </div>
                     <div className='line3'></div>
                     <div className='line-4'></div>
@@ -142,10 +142,7 @@ export default function Work() {
                         <h3 className='project'> Sharelicious</h3>
                     </div>
                     <div className='line2-a'>
-                        <h5 className='title-a'> During the #Hackshow our team (Luisa Ojeda, Samy Ali Sánchez & Pablo Dellacassa) won the best app.
-                            Our app is based on food recommendation through a social network. Sharelicious!!
-
-                            I was responsible for the design of the application. App is responsive for mobile (only)</h5>
+                        <h5 className='title-a'> During the #Hackshow, our team (Luisa Ojeda, Samy Ali Sánchez & Pablo Dellacassa) won the best app. Our app is based on food recommendation through a social network. Sharelicious!! I was responsible for the design of the application. The App is responsive for mobile (only). (only)</h5>
                     </div>
                     <div className='line3'></div>
                     <div className='line-4'></div>
@@ -339,7 +336,7 @@ export default function Work() {
                         <h3 className='project'> De Waagh </h3>
                     </div>
                     <div className='line2-a'>
-                        <h5 className='title-a'> I created a menu for De Waagh a restaurant in the Netherlands. </h5>
+                        <h5 className='title-a'> I created a menu for De Waagh, a restaurant in the Netherlands. </h5>
                     </div>
                     <div className='line3'></div>
                     <div className='line-4'></div>

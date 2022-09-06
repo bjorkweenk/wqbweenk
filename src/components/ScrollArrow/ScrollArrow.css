@@ -10,10 +10,9 @@
 }
 
 .scrollTop:hover {
-    cursor: wait;
+    cursor: pointer;
     background-color: #12746c;
     border-radius: 50%;
-    transform: scale(2.0);
 }
 
 @media only screen and (max-width: 768px){
@@ -29,10 +28,9 @@
     }
     
     .scrollTop:hover {
-        cursor: wait;
+        cursor: pointer;
         background-color: #12746c;
         border-radius: 50%;
-        transform: scale(2.0);
     }
 
 }
