@@ -305,7 +305,7 @@
     #name {
       color: black;
       transform: rotate(-90deg);
-      margin-top: 420px;
+      margin-top: 520px;
       font-size: 20px;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -313,7 +313,7 @@
   
     #name2 {
       position: absolute;
-      top: 520px;
+      top: 620px;
       left: 70px;
       font-size: 20px;
       transform: rotate(360deg);
@@ -584,8 +584,5 @@
       font-size: 15px;
     }
   
-    .fa-solid {
-      transform: rotate(90deg);
-    }
   
   }

@@ -91,6 +91,8 @@ ul {
         list-style-type: none;
         display: inline;
         padding: 0 5px;
+        
+
     }
     
     .rights {
@@ -104,6 +106,7 @@ ul {
         min-width: 10%;
         flex-direction: column;
         margin-top: -15px;
+        margin-left: 10%;
     }
     
     .list {
@@ -111,6 +114,7 @@ ul {
         display: flex;
         flex-direction: row;
         align-items: center;
+        margin-left: 10px;
 
     }
     
